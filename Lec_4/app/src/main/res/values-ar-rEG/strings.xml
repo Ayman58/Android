@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تيليكوم ٤٢</string>
+    <string name="btn_main_login_title">سجل دخول</string>
+    <string name="btn_main_click_title">آضغط</string>
+    <string name="edit_main_user_name_title">اسم المستخدم</string>
+
+</resources>

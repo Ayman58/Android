@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Telecom 42</string>
+    <string name="btn_main_login_title">Login</string>
+    <string name="btn_main_click_title">press</string>
+    <string name="edit_main_user_name_title">user name</string>
+</resources>
